@@ -81,7 +81,7 @@
 - 다형성 by 추상 클래스(abstract class)
 - 다형성 by 인터페이스(Interface)
 
-##### lab
+##### Lab
 
 - Abstract Class
 
@@ -136,6 +136,6 @@
 
 ### Lecture10
 
-##### lab
+##### Lab
 
 - 파일 입출력
